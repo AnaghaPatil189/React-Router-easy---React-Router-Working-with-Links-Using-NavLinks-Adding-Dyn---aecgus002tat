@@ -8,7 +8,7 @@ export const NavBar = () => {
         <li>
           <NavLink className={"index-link"} to="/">
             Index
-          </
+          </NavLink>
         </li>
         <li>
           <NavLink className={"home-link"} to="/home">
@@ -18,4 +18,4 @@ export const NavBar = () => {
       </ul>
     </nav>
   );
-};NavLink>
+};
